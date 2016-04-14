@@ -1,0 +1,23 @@
+Download the repository
+
+Clone/New Click the button on the top to create a new repository- Source Tree
+Paste the URL which is in the GIT - Transfer URL should end with something like Transfer.git
+Give Destination path in your file system
+Click on Clone
+
+Click on Demo
+Origin - Checkout
+will see develop and master in branches
+Git flow - Press Ok - to set up new branches
+
+Create a new branch
+New Feature - give name
+
+Add files
+Commit - File status is where you give the comments
+Push the branch
+
+balaji.dn@capgemini.com
+balaBALA@0
+
+
